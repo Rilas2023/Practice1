@@ -5,4 +5,5 @@ public class Store {
 
     //storage
 
+    //Which store are you looking for?
 }
